@@ -6,7 +6,7 @@
   "stack": "container",
   "env": {
     "ALWAYS_ONLINE": {
-      "description": "show bot number last seen as online",
+      "description": "+94 70 440 5671",
       "required": false,
       "value": "false"
     },
@@ -18,14 +18,14 @@
     "SUDO": {
       "description": "admin",
       "required": false,
-      "value": ""
+      "value": "+94 70 440 5671"
     },
     "PREFIX": {
       "description": "prefix, check for more",
       "required": false,
       "value": "."
     },
-    "SESSION_ID": {
+    "SESSION_ID": {levanter_28cbd73f38e218409ba939f3a8f984630f
       "description": "session id",
       "required": true,
       "value": ""
